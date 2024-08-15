@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Jose Brache Garcia</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hello, my name is Jose.\n\nI am a recent AS Computer Programming and Analysis Graduate.\n\nSome of my skills include: \n\nHTML\n\nCSS\n\nJavaScript\n\nBootstrap\n\njQuery\n\nReact\n\nPHP\n\nNode\n\nPython\n\nFlask\n\nMySQL\n\nPostgreSQL\n\nMS SQL\n\nI cannot wait to get my first software development job.\n\nIf I get it, I will be the happiest man in the world.\n\nNot even my future bride will be able to make me as happy.\n\n\n\n</string>
+    <string name="nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>

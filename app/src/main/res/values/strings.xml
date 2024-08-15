@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Jose Brache Garcia</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hello, my name is Jose.\n\nI am a recent AS Computer Programming and Analysis Graduate.</string>
+    <string name="nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
